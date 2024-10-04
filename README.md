@@ -3,7 +3,7 @@ This repository contains a project aimed at detecting duplicate questions from a
 
 Table of Contents
 Features
-Requirements
+Requirements   
 Usage
 Workflow
 Results
